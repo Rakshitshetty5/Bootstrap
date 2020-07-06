@@ -66,3 +66,13 @@ body{
     left: 0;
     min-height: 300px;
 }
+.reserveModalButton{
+    padding : 12px 16px;
+}
+
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
